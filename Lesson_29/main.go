@@ -27,7 +27,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	users := User{FirstName: "jin",LastName: "Dooooo",Email: "jindooooo@gmail.com",Password: "1234", Age: 19,Field: "Toshkent",Gender: "alo", Birthday: time.Now()}
+	users := User{ FirstName: "jin",LastName: "Dooooo",Email: "jindooooo@gmail.com",Password: "1234", Age: 19,Field: "Toshkent",Gender: "alo", Birthday: time.Now()}
 
 	result := db.Create(&users)
 

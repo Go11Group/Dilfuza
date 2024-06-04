@@ -2,7 +2,7 @@ package storage
 
 import (
 	"database/sql"
-	"lesson30/model"
+	"github.com/Go11Group/Dilfuza/lesson30/model"
 )
 
 

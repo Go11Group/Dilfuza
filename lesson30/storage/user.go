@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"lesson30/model"
+	"github.com/Go11Group/Dilfuza/lesson30/model"
 )
 
 type UserRepo struct {

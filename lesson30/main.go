@@ -3,8 +3,8 @@ package main
 import (
     "fmt"
     "log"
-    "lesson30/model"
-    "lesson30/storage"
+    "github.com/Go11Group/Dilfuza/lesson30/model"
+    "github.com/Go11Group/Dilfuza/lesson30/storage"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module example.com/m
+module github.com/Go11Group/Dilfuza/lesson30
 
 go 1.20
 
